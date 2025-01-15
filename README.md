@@ -111,6 +111,7 @@ These experiences strengthened my skills in **machine learning**, **API developm
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-lua-14a70a16a/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat-square&logoColor=white)](https://marklua.dev)  
 [![Dev.to](https://img.shields.io/badge/-Dev.to-000000?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/marklua)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/mark.lua.972851/)
 
 ---
 
