@@ -38,6 +38,7 @@ When I’m not coding, you’ll find me:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -54,8 +55,12 @@ When I’m not coding, you’ll find me:
 #### Backend Frameworks:  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CI4](https://img.shields.io/badge/-CI4-EF4235?style=flat-square&logo=codeigniter&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCB2B?style=flat&logo=firebase&logoColor=white)
+
 
 #### Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -65,6 +70,8 @@ When I’m not coding, you’ll find me:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/-Gunicorn-4B8B3B?style=flat-square&logo=gunicorn&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 #### Currently Exploring:  
 - **Cloud Services**: AWS, Azure  
@@ -105,8 +112,9 @@ These experiences strengthened my skills in **machine learning**, **API developm
 ---
 
 ## 📈 GitHub Stats  
-![Mark Lua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-LuaM&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LuaM&layout=compact&theme=dark)
+![Mark Lua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-LuaM&show_icons=true&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mr-LuaM&theme=dark)  
 
 ---
 
