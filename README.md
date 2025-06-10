@@ -101,15 +101,17 @@ A point-of-sale system for hardware stores, built with Java Swing and MVC archit
 - Product management  
 - Sales processing  
 
-#### Private Projects (General Overview):  
-While I can’t disclose specific details due to confidentiality, I’ve worked on:  
-- **Data Management Systems**: Designed for academic institutions to streamline and secure data workflows.  
-- **Agriculture AI Systems**: Developed video processing and machine learning tools for real-time yield prediction.  
-- **Sentiment Analysis Tools**: Built NLP-driven APIs for real-time textual analysis.  
+### Private Projects (General Overview)
+While I can’t disclose specific details due to confidentiality, I’ve worked on the following:
+- **Data Management Systems**: Designed to streamline and secure data workflows for academic institutions.
+- **Agriculture AI Systems**: Developed video processing and machine learning tools for real-time predictions.
+- **Sentiment Analysis Tools**: Built NLP-driven APIs for real-time textual analysis.
+- **Admin System for Business Operations**: Created a system for managing tasks such as violation tracking, payments, franchise renewals, and transfers, along with overseeing procurement, messaging, training courses, and other internal processes.
+- **Attendance System with Location and Face Recognition**: Developed an attendance feature that utilizes location tracking and facial recognition for secure and accurate attendance management.
+- **Enterprise Resource Distribution (ERD) System**: Designed a comprehensive system for managing various organizational functions, including procurement, application handling, messaging, and employee training.
 
-These experiences strengthened my skills in **machine learning**, **API development**, and **database management**.
+These experiences have helped me enhance my skills in **machine learning**, **API development**, **database management**, and **business operations system design**.
 
----
 
 ## 📈 GitHub Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LuaM&layout=compact&theme=dark)
