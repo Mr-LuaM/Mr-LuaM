@@ -7,15 +7,17 @@
 const MarkLua = {
   name: "Mark Lua",
   title: "Full Stack Developer",
+  portfolio: "https://luamark.vercel.app/",
   mission: "Innovating seamless, user-centric digital experiences.",
   skills: {
-    languages: ["C", "C++", "C#", "Java", "JavaScript", "PHP", "Python", "HTML", "CSS"],
-    frontendFrameworks: ["Vue.js", "React", "Bootstrap", "Tailwind CSS", "Vuetify", "ShadCN"],
-    backendFrameworks: ["Node.js", "Laravel", "Django", "Flask", "CI4"],
-    tools: ["Docker", "Kubernetes", "Jenkins", "Git", "Figma", "Webpack"],
+    languages: ["C", "C++", "C#", "Java", "JavaScript", "TypeScript", "PHP", "Python", "HTML", "CSS"],
+    frontendFrameworks: ["Vue.js", "React", "Next.js", "Bootstrap", "Tailwind CSS", "Vuetify", "ShadCN", "Hero UI", "Vite"],
+    backendFrameworks: ["Node.js", "Laravel", "Django", "Flask", "CI4", "Supabase", "Firebase"],
+    databases: ["MySQL", "MongoDB"],
+    tools: ["Docker", "Kubernetes", "Jenkins", "Git", "Figma", "Webpack", "Gunicorn", "Nginx"],
   },
-  exploring: ["Cloud Computing (AWS, Azure)", "AI/ML", "Web3"],
-  loves: ["Coffee ☕", "Clean Code 🧹", "Solving Complex Problems 🤔"],
+  exploring: ["Cloud Computing (AWS, Azure)", "AI/ML (TensorFlow, OpenAI GPT)", "Web3 (Smart Contracts, Solidity)"],
+  loves: ["Coffee ☕", "Clean Code 🧹", "Solving Complex Problems 🤔"]
 };
 console.log(MarkLua);
 ```
@@ -47,10 +49,13 @@ When I’m not coding, you’ll find me:
 #### Frontend Frameworks & UI:  
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=flat-square&logoColor=white)
+![Heroicons](https://img.shields.io/badge/-HeroUI-0EA5E9?style=flat-square&logo=heroicons&logoColor=white)
 
 #### Backend Frameworks:  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -122,8 +127,7 @@ These experiences have helped me enhance my skills in **machine learning**, **AP
 
 ## 🤝 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-lua-14a70a16a/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat-square&logoColor=white)](https://marklua.dev)  
-[![Dev.to](https://img.shields.io/badge/-Dev.to-000000?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/marklua)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat-square&logoColor=white)](https://luamark.vercel.app/)  
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/mark.lua.972851/)
 
 ---
