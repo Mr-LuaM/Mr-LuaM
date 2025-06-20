@@ -1,6 +1,9 @@
 
 # Mark Lua  
 ### 🚀 Full Stack Developer | Problem Solver | Innovator  
+[![🌐 Portfolio](https://img.shields.io/badge/-luamark.vercel.app-FF5733?style=flat-square&logo=vercel&logoColor=white)](https://luamark.vercel.app/) 
+[![💼 LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-lua-14a70a16a/) 
+[![📘 Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/mark.lua.972851/)
 
 ```javascript
 // mark-lua-profile.js
@@ -126,9 +129,9 @@ These experiences have helped me enhance my skills in **machine learning**, **AP
 ---
 
 ## 🤝 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-lua-14a70a16a/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat-square&logoColor=white)](https://luamark.vercel.app/)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/mark.lua.972851/)
+[![Portfolio](https://img.shields.io/badge/-luamark.vercel.app-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://luamark.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-lua-14a70a16a/)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/mark.lua.972851/)
 
 ---
 
