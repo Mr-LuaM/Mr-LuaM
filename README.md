@@ -1,6 +1,7 @@
 
 # Mark Lua  
 ### 🚀 Full Stack Developer | Problem Solver | Innovator  
+[![📧 Gmail](https://img.shields.io/badge/-marklua599@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marklua599@gmail.com)
 [![🌐 Portfolio](https://img.shields.io/badge/-luamark.vercel.app-FF5733?style=flat-square&logo=vercel&logoColor=white)](https://luamark.vercel.app/) 
 [![💼 LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-lua-14a70a16a/) 
 [![📘 Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/mark.lua.972851/)
@@ -129,9 +130,7 @@ These experiences have helped me enhance my skills in **machine learning**, **AP
 ---
 
 ## 🤝 Let's Connect!  
-[![Portfolio](https://img.shields.io/badge/-luamark.vercel.app-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://luamark.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-lua-14a70a16a/)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/mark.lua.972851/)
+[![📧 Gmail](https://img.shields.io/badge/-marklua599@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marklua599@gmail.com) [![Portfolio](https://img.shields.io/badge/-luamark.vercel.app-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://luamark.vercel.app/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-lua-14a70a16a/) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/mark.lua.972851/)
 
 ---
 
